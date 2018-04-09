@@ -51,7 +51,7 @@
 #feedback [href^=httpsevents.drupal.org] {
   font-size: 0.75em;
 }
-https://gist.githubusercontent.com/gapple/5c721f924f5eca8336d5d8a2e4a610f3/raw/67c8a0ee4aea5ee45a16b2afcab384daa9354c74/presentation.css
+
 @media (orientation: portrait) {
   .only-landscape {
     display: none;
